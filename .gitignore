@@ -1,0 +1,12 @@
+# 忽略 PyInstaller 生成的目录
+dist/
+build/
+*.spec
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/
